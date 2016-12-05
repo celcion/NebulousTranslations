@@ -6,8 +6,7 @@ This is the Github page of Nebulous Translations where you can access files from
 
 <h2>Page news:</h2>
 
-<i>05 Dec 2016</i>
-Saiyuuki World files are up! More to come. Stay tuned! :-)
+<b><i>05 Dec 2016</i></b> - Saiyuuki World files are up! More to come. Stay tuned! :-)
 
 <hr>
 
