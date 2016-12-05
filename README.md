@@ -2,8 +2,8 @@
 
 This is the Github page of Nebulous Translations where you can access files from our projects and thus help develop the beautiful hobby of ROMhacking by actively participating in our work.
 
-Please, keep in mind that I'm (Celcion) not a programmer, so my code could be pretty ugly. But as long as it doing it's job, it doesn't matter, right? :-)
-I also use <a href="https://github.com/PowerShell/PowerShell">Powershell</a> almost exclusively. It's not the one programming language I know, but the one I'm most comfortable with. Note that this code was written using <b>Windows version</b> of Powershell. I can't guarantee that it'll work on Linux/macOS versions.
+Please, keep in mind that I'm (Celcion) not a programmer, so my code could be pretty ugly. But as long as it does its job, it doesn't matter, right? :-)
+I also use <a href="https://github.com/PowerShell/PowerShell">Powershell</a> for the most part. It's not the sole programming language I know, but the one I'm most comfortable with. Note that this code was written using <b>Windows version</b> of Powershell. I can't guarantee that it'll work on Linux/macOS versions.
 
 <hr>
 
