@@ -4,11 +4,14 @@ This is the Github page of Nebulous Translations where you can access files from
 
 Saiyuuki World files are up! More to come. Stay tuned! :-)
 
+Our current members:
 
-
-
-
-
+<ul>
+<li><b>Celcion</b> - hacking</li>
+<li><b>TheMajinZenki</b> - lead translator</li>
+<li><b>cccmar</b> - initial testing/spot translation/script editing</li>
+<li><b>Miralita</b> (occasionally) - hacking</li>
+</ul>
 
 
 
