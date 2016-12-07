@@ -1,0 +1,1 @@
+Please, use HEADERED (GoodPCE) version of the game!

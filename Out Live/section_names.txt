@@ -1,0 +1,13 @@
+1 - Transitions
+2 - PostEnding
+3 - Credits
+4 - Battle Quotes
+5 - Battle Screen
+6 - Enemy Names
+7 - Pub Dialogues
+8 - Weapons/Items/Armor
+9 - Places/Characters Names
+10 - Shop/General Talks
+11 - Weapon Shop
+12 - Armor Shop
+13 - Item Shop
