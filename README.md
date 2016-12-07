@@ -10,6 +10,7 @@ I also use <a href="https://github.com/PowerShell/PowerShell">Powershell</a> for
 <h2>Page news:</h2>
 
 <b><i>07 Dec 2016</i></b> - Recently released Out Live translation files released!
+
 <b><i>05 Dec 2016</i></b> - Saiyuuki World files are up! More to come. Stay tuned! :-)
 
 <hr>
