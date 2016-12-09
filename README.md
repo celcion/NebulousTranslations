@@ -37,3 +37,5 @@ Our current members:
 This translations are a non-commercial and unofficial projects which is in no way affiliated with the game creators or distributors. We don't own anything here (apart from published translation utils code, of course) and have no copyrights.
 
 Please note that <b>ANY</b> commercial usage of this code is <b>ILLEGAL</b>! We <b>DON'T</b> endorse and <b>DON'T</b> allow <b>ANY</b> commercial releases of these translations!
+
+<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
