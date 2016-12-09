@@ -1,0 +1,9 @@
+.\1.Expand-Rom.ps1
+.\_.DirtyHacks.ps1
+.\2.FixedBlock-Parse.ps1
+.\3.2BPointers-Parse.ps1
+.\4.DirectPointers-Parse.ps1
+.\5.RelativePointers-Parse.ps1
+.\6.OtherPointers-Parse.ps1
+.\7.Dialogs-Parse.ps1
+.\8.Ending-Parse.ps1
