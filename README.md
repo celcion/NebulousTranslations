@@ -9,7 +9,7 @@ I also use <a href="https://github.com/PowerShell/PowerShell">Powershell</a> for
 
 <h2>Page news:</h2>
 
-<b><i>09 Dec 2016</i></b> - Our first translation, Star Cruiser - is here! But as it was my first attempt to make a translation, code quality is very poor, please be aware.
+<b><i>09 Dec 2016</i></b> - Our first translation, Star Cruiser - is here! But as it was my first attempt to make a translation of this complexity level, code quality is very poor, please be aware.
 
 <b><i>07 Dec 2016</i></b> - Recently released Out Live translation files released!
 
