@@ -1,0 +1,9 @@
+.\1.Expand-Rom.ps1
+.\2.DirectPointersBlocks-Parse.ps1
+.\3.Dialogs-Parse.ps1
+.\4.DirectPointers-Parse.ps1
+.\5.GameMenu-Parse.ps1
+.\6.ConfigMenu-Parse.ps1
+.\7.Items-Parse.ps1
+.\8.ChangeCoordinates-Parse.ps1
+.\9.KanjiText-Parse.ps1
