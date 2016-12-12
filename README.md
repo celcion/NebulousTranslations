@@ -11,6 +11,8 @@ Also we'd like to note that we prefer to keep information about future and ongoi
 
 <h2>Page news:</h2>
 
+<b><i>12 Dec 2016</i></b> - Files for Vixen 357, our second translation - is also here! This was more involved work in terms of hacking, but code quality is still can be considered poor.
+
 <b><i>09 Dec 2016</i></b> - Our first translation, Star Cruiser - is here! But as it was my first attempt to make a translation of this complexity level, code quality is very poor, please be aware.
 
 <b><i>07 Dec 2016</i></b> - Recently released Out Live translation files released!
