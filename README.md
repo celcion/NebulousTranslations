@@ -11,6 +11,8 @@ Also we'd like to note that we prefer to keep information about future and ongoi
 
 <h2>Page news:</h2>
 
+<b><i>10 Oct 2017</i></b> - The second and long awaited release, Star Cruiser II is here!
+
 <b><i>06 Jul 2017</i></b> - Our first release this year, The Super Dimension Fortress Macross: Skull Leader Complete Pack (nice and short name, yeah), but surely not the last! Stay tuned for more!
 
 <b><i>12 Dec 2016</i></b> - Files for Vixen 357, our second translation - is also here! This was more involved work in terms of hacking, but code quality is still can be considered poor.
