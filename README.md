@@ -35,7 +35,7 @@ Our current members:
 <li><b>Celcion</b> - hacking</li>
 <li><b>TheMajinZenki</b> - lead translator</li>
 <li><b>cccmar</b> - initial testing/spot translation/script editing</li>
-<li><b>Miralita</b> - programming</li>
+<li><b>Miralita</b> - programming, website</li>
 </ul>
 
 <hr>
