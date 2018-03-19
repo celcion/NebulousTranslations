@@ -1,0 +1,188 @@
+start: 0x8000
+	LDY #$00
+	BEQ _lb8006
+	LDY #$01
+_lb8006:
+	STY $08
+	ASL
+	TAY
+	BCC _lb8017
+	LDA $81FC,Y
+	STA $02
+	LDA $81FD,Y
+	JMP _lb801f
+_lb8017:
+	LDA $80FC,Y
+	STA $02
+	LDA $80FD,Y
+_lb801f:
+	STA $03
+	LDY #$01
+	STY $06
+	LDY #$00
+_lb8027:
+	JSR _lb8073
+	LDA #$19
+	STA $07
+	LDA $08
+	BEQ _lb8035
+	JSR _lb8088
+_lb8035:
+	LDA ($02),Y
+	CMP #$FF
+	BNE _lb8048
+	LDA #$00
+_lb803d:
+	STA $0700,X
+	INX
+	DEC $07
+	BPL _lb803d
+	JMP _lb8051
+_lb8048:
+	STA $0700,X
+	INX
+	INY
+	DEC $07
+	BPL _lb8035
+_lb8051:
+	LDA $08
+	BEQ _lb8058
+	JSR _lb8088
+_lb8058:
+	LDA #$FF
+	STA $0700,X
+	INX
+	STX $E7
+	LDA $04
+	CLC
+	ADC #$20
+	STA $04
+	LDA $05
+	ADC #$00
+	STA $05
+	INY
+	DEC $06
+	BPL _lb8027
+	RTS
+_lb8073:
+	LDX $E7
+	LDA #$01
+	STA $0700,X
+	INX
+	LDA $05
+	STA $0700,X
+	INX
+	LDA $04
+	STA $0700,X
+	INX
+	RTS
+_lb8088:
+	LDA #$13
+	STA $0700,X
+	INX
+	RTS
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
+	BRK
