@@ -11,6 +11,8 @@ Also we'd like to note that we prefer to keep information about future and ongoi
 
 <h2>Page news:</h2>
 
+<b><i>19 Mar 2018</i></b> - Added project files for War of the Dead (better late than never!) and Getsu Fuma Den translations.
+
 <b><i>10 Oct 2017</i></b> - The second and long awaited release, Star Cruiser II is here!
 
 <b><i>06 Jul 2017</i></b> - Our first release this year, The Super Dimension Fortress Macross: Skull Leader Complete Pack (nice and short name, yeah), but surely not the last! Stay tuned for more!
