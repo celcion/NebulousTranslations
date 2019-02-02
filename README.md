@@ -11,6 +11,8 @@ Also we'd like to note that we prefer to keep information about future and ongoi
 
 <h2>Page news:</h2>
 
+<b><i>02 Feb 2019</i></b> - Added project files for The Game of Life RPG translation. It's been a while!
+
 <b><i>19 Mar 2018</i></b> - Added project files for War of the Dead (better late than never!) and Getsu Fuma Den translations. Tools for both translations were written in Ruby. Getsu Fuma Den project contains a our new minimalistic assembler/disassembler also written in Ruby.
 
 <b><i>10 Oct 2017</i></b> - The second and long awaited release, Star Cruiser II is here!
