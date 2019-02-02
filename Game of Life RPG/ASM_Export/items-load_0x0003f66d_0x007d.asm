@@ -1,0 +1,74 @@
+start: 0xF65D
+	TXA
+	PHA
+	JSR $D76A
+	LDA $0740
+	ASL
+	TAY
+	LDA $F6F8,Y
+	STA $4B
+	LDA $F6F9,Y
+	STA $4C
+	LDA #$40
+	STA $4F
+	LDA #$04
+	STA $50
+	LDA $0759
+	STA $BC
+	INC $BC
+	LDX $0759
+_lbf683:
+	TXA
+	BMI _lbf6b8
+	TXA
+	ASL
+	TAY
+	LDA ($4B),Y
+	STA $4D
+	INY
+	LDA ($4B),Y
+	STA $4E
+	INY
+	LDY #$00
+_lbf695:
+	LDA ($4D),Y
+	CMP #$FF
+	BEQ _lbf6a1
+	STA ($4F),Y
+	INY
+	JMP _lbf695
+_lbf6a1:
+	LDY #$0A
+	LDA #$FF
+	STA ($4F),Y
+	CLC
+	LDA $4F
+	ADC #$15
+	STA $4F
+	LDA $50
+	ADC #$00
+	STA $50
+	DEX
+	JMP _lbf683
+_lbf6b8:
+	LDY #$0A
+	LDX $0759
+	INX
+_lbf6be:
+	CPX #$08
+	BEQ _lbf6d7
+	LDA #$FF
+	STA ($4F),Y
+	CLC
+	LDA $4F
+	ADC #$15
+	STA $4F
+	LDA $50
+	ADC #$00
+	STA $50
+	INX
+	JMP _lbf6be
+_lbf6d7:
+	PLA
+	TAX
+	RTS

@@ -1,0 +1,61 @@
+start: 0xB38F
+	PLA
+	ASL
+	TAY
+	LDA $B404,Y
+	STA $53
+	LDA $B405,Y
+	STA $54
+	LDA #$40
+	STA $51
+	LDA #$04
+	STA $52
+	LDY #$00
+_lbb3a6:
+	TYA
+	PHA
+	LDA ($53),Y
+	STA $4B
+	INY
+	LDA ($53),Y
+	STA $4C
+	JSR $FF81 ; _load_4b51
+	PLA
+	PHA
+	TAY
+	LDA $B36D,Y
+	STA $4B
+	LDA $B36E,Y
+	STA $4C
+	CLC
+	LDA $51
+	ADC #$0A
+	STA $4D
+	LDA $52
+	ADC #$00
+	STA $4E
+	JSR $C048
+	LDY #$12
+	LDA #$24 ; yen sign
+	STA ($51),Y
+	INY
+	LDA #$FF
+	STA ($51),Y
+	CLC
+	LDA $51
+	ADC #$15
+	STA $51
+	LDA $52
+	ADC #$00
+	STA $52
+	PLA
+	TAY
+	INY
+	INY
+	TYA
+	LSR
+	CMP #$03
+	BNE _lbb3a6
+	LDA #$FF
+	STA ($51),Y
+	RTS

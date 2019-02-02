@@ -1,0 +1,15 @@
+start: 0xFE3D
+	LDA $D0
+	ASL
+	ASL
+	TAY
+	LDA $F600,Y
+	STA $0160,X
+	LDA $F601,Y
+	STA $0161,X
+	LDA $F602,Y
+	STA $0162,X
+	INX
+	INX
+	INX
+	RTS

@@ -1,0 +1,14 @@
+start: 0xD1A1
+	LDA #$32
+	STA $85
+	LDA #$21
+	STA $86
+	LDA $0740
+	ASL
+	TAY
+	LDA $D1BC,Y
+	STA $87
+	LDA $D1BD,Y
+	STA $88
+	JSR $C9D5
+	RTS

@@ -1,0 +1,4 @@
+start: 0xFE7E
+	LDA $D1
+	JSR $F6DA
+	JMP $FFBA

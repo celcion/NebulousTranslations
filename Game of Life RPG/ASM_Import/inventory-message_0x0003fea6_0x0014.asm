@@ -1,0 +1,3 @@
+start: 0xFE96
+	JSR $F9BF
+	JMP $FFC2
