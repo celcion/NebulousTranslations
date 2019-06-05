@@ -1,0 +1,8 @@
+system("ruby", "1.Extract_Hacks.rb")
+system("ruby", "2.Parse-Dialogues.rb")
+system("ruby", "3.Parse-StaticTables.rb")
+system("ruby", "4.Parse-PTRBlocks.rb")
+system("ruby", "5.Parse-CodePtrs.rb")
+system("ruby", "6.Parse-MAPs.rb")
+system("ruby", "7.Parse-ScrollText.rb")
+system("ruby", "a.pack-Files.rb")

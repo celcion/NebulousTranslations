@@ -1,0 +1,15 @@
+﻿;Setting Format
+; Extention.LoadType(LoadAddress,LoadSize,DestinationAddress)
+;
+; * Extention allow '?' and '*'.
+; * Write parameter in 16 base number.
+
+; ZSNES
+zs?.PAL16(00000618,00000200,00000000)
+
+; SNES-GT
+; sv?.PAL16(custom,00000200,00000000)
+
+; VirtuaNES
+; st?.DAT(custom,custom,00000020)
+
