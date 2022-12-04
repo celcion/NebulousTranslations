@@ -11,6 +11,8 @@ Also we'd like to note that we prefer to keep information about future and ongoi
 
 <h2>Page news:</h2>
 
+<b><i>04 Dec 2022</i></b> - Yet another "better late than never" addition is... Vixen 357 once again. But, wait, you'd say, Vixen 357 was added an ages ago! Sure it was, but this is a newer and much better crafted version of translation that we were preparing for a very special release. It was done with much better tooling, used a much better approach as a whole (like, in-game compression engine was reused for text that was previously inserted with ROM expansion). Sadly, nothing came out the cause we were making it for, so all these efforts ended up being useless. So, I figured, it would be better to put it here rather than just delete it. I guess there's no point in releasing the translation itself since changes aren't very visible from a gamer perspective (changed fonts, some small fixes here and there, other minor stuff), but feel free to use these tools to make a translated ROM yourself!
+
 <b><i>05 Jun 2019</i></b> - Star Cruiser x68k project files are finally here! Better late than never!
 
 <b><i>02 Feb 2019</i></b> - Added project files for The Game of Life RPG translation. It's been a while!

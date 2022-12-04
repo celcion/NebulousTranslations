@@ -1,0 +1,94 @@
+﻿ Producer
+     Toshiro Tsuchida
+
+ Assistant Producer
+     Norihiko Yonesaka
+
+ Director
+     MORIYAH
+
+ Programmers
+     MORIYAH
+     Takahiro Matsuzawa
+
+ Compression Technology
+     Yukihiro Higuchi
+
+ Visual Programmer
+     Shigetoshi Momose
+
+ Character Design
+     Katsutoshi Fujioka
+
+ Mecha Design
+     Tsutomu Ozawa
+
+ Animation
+     Kin Kaneda
+
+ Graphics
+     Tsutomu Ozawa
+     Koichiro Kobayaki
+     Masanori Sakurai
+
+ Music & SFX
+     OPUS CORP.
+
+ Planning
+     MORIYAH
+
+ Special Thanks
+     Akira Goto
+     Tomoharu Saito
+
+ Thanks
+     Satoshi Takasugi
+     Masayuki Suzuki
+     Tetsuya Ooya
+     Takayuki Jingu
+     Naoki Kawakami
+     Aki Ishizuka
+
+ Executive Sales Promoter
+     Masatoshi Uchida
+
+ Sales Promoters
+     Kyoko Katagiri
+     Kiyoshi Mimura
+     Yasuaki Yokoe
+     Kazuhiro Machida
+     Yasuo Koeda
+
+ Public Relations
+     Takeshi Kikuchi
+
+ Special Advisor
+     Yasumasa Shirakura
+
+ Executive Director
+     Mitsuo Shibuya
+
+
+ English Translation Team
+
+ Hacking and programming
+     Celcion
+     Miralita
+
+ Translation
+     TheMajinZenki
+     cccmar
+
+
+     VIXEN 357
+
+ Copyright
+   NCS Corp. 1992
+
+ All Rights Reserved
+
+   Translation 2016
+
+ The patch is only intended
+ for non-commercial use.
+

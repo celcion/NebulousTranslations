@@ -1,0 +1,20 @@
+	org $00008126
+start:
+	lea     $1a4.w,a0
+	move.l  (a0),d0
+	addq.l  #$1,d0
+	lea     $200.w,a0
+	sub.l   a0,d0
+	asr.l   #1,d0
+	move.w  d0,d2
+	subq.w  #$1,d2
+	swap    d0
+	moveq   #0,d1
+	add.w   (a0)+,d1
+	dbf     d2,$813e
+	dbf     d0,$813e
+	tst.w   $18e.w
+	beq.b   $8158
+	lea     $18e.w,a0
+	cmp.w   (a0),d1
+	bne.w   $8306
