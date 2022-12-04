@@ -38,7 +38,8 @@ Also we'd like to note that we prefer to keep information about future and ongoi
 Our current members:
 
 <ul>
-<li><b>Celcion</b> - hacking</li>
+<li><b>Celcion</b> - hacking (retired since 2020, but owner of this repo)</li>
+<li><b>cybermind</b> - hacking (you can find his work on his separate <a href="https://github.com/Mistranger">repo</a>)</li>
 <li><b>TheMajinZenki</b> - lead translator</li>
 <li><b>cccmar</b> - initial testing/spot translation/script editing</li>
 <li><b>Miralita</b> - programming, website</li>
